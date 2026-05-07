@@ -1,1 +1,2 @@
-DevOps Git Lab 2
+## Conflict Update
+This line will create a merge conflict.
