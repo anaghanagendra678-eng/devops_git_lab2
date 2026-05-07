@@ -1,1 +1,3 @@
-This update demonstrates Git branching and merging workflow.
+## Feature Update
+## Conflict Update
+ Both Updates merged successfully.
